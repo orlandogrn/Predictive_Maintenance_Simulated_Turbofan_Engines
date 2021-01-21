@@ -27,7 +27,7 @@ It is a multivariate time series and includes a total of 26 channels:
 	<img src="ReadMe_files/channels_description.png" height="650" width="425" />
 </p>
 
-There are a total of four dataset
+There are a total of four simulated datasets available on the NASA website with one or two fault modes, one or six operating conditions (different altitude, mach and TRA combinations) as shown on Table 2. 
 
 <p align="center">
 	Table:2 Datasets avaiblable at NASA website
@@ -35,5 +35,3 @@ There are a total of four dataset
 <p align="center">
 	<img src="ReadMe_files/datasets_table.png" height="238" width="450"/>
 </p>
-
-![Alt text](ReadMe_files/datasets_table.png "Optional title" height="238" width="450")
