@@ -36,4 +36,4 @@ There are a total of four dataset
 	<img src="ReadMe_files/datasets_table.png" height="238" width="450"/>
 </p>
 
-![Alt text](ReadMe_files/datasets_table.png "Optional title")
+![Alt text](ReadMe_files/datasets_table.png "Optional title" height="238" width="450")
