@@ -33,5 +33,5 @@ There are a total of four dataset
 	Table:2 Datasets avaiblable at NASA website
 </p>
 <p align="center">
-	<img src="ReadMe_files/datasets_table.png" />
+	<img src="ReadMe_files/datasets_table.png" height="238" width="450"/>
 </p>
