@@ -9,5 +9,5 @@ This was an individual project was developed during the Data Science course at G
 
 ## Data
 <p align="center">
-	<img src="ReadMe_files/channels_description.png" alt="Entity Relationship diagram" height="500" width="800" />
+	<img src="ReadMe_files/channels_description.png" alt="Channels description" />
 </p>
