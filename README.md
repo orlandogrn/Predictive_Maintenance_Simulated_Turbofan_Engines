@@ -17,7 +17,8 @@ It is a multivariate time series with 'cycle' as time unit and includes for each
 - 3 operating settings (altitude, mach, throttle resolver angle(TRA)).
 - 21 sensor readings, which are described on Table 1 below.
 
-Table:1 Channels description
+
 <p align="center">
+	Table:1 Channels description
 	<img src="ReadMe_files/channels_description.png" height="650" width="425" />
 </p>
