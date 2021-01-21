@@ -36,3 +36,14 @@ There are a total of four simulated datasets available on the NASA data reposito
 	<img src="ReadMe_files/datasets_table.png" height="240" width="500" />
 </p>
 
+## Summary
+- The use of the operating conditions and the creation of new features (based on the operating regimes and sensors readings) was crucial to improve prediction performance.
+- The progressive increase of engine wear is a key characteristic to predict failure, and so models that take a form of “wear” into account seem to perform better.
+- MLP, Gradient Boosting and SVR have shown to be the best performers among the models tried.
+
+## Potential future work
+- To analyse the models performance varying the initial RUL.
+- To apply component analysis to select features.
+- To Assess the performance of other models that keep some memory of past events such as LSTM and others.
+- Use of classification models to predict whether or not a failure may occur in a time window.
+- Use of classification to identify possibly different failure modes.
