@@ -6,3 +6,6 @@ Predictive maintenance aims to increase system reliability and be more cost effi
 Several machine learning models (Elastic Net, Random Forest, Gradient Boosting, Logistic Regression, SVM, Neural Network, among others) were tuned and compared to predict a failure occurrence. Results were improved by using feature engineering (moving average window), feature normalisation by operating regime and modelling gridsearch. Neural Network, Gradient Boosting and SVR models showed the best performances.
 
 This was an individual project was developed during the Data Science course at General Assembly London.
+
+## Data
+
