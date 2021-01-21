@@ -33,5 +33,5 @@ There are a total of four simulated datasets available on the NASA website with 
 	Table:2 Datasets avaiblable at NASA website
 </p>
 <p align="center">
-	<img src="ReadMe_files/datasets_table.png" height="238" width="450"/>
+	<img src="ReadMe_files/datasets_table.png"/>
 </p>
