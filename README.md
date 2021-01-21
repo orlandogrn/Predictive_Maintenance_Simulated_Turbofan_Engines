@@ -8,6 +8,9 @@ Several machine learning models (Elastic Net, Random Forest, Gradient Boosting, 
 This was an individual project was developed during the Data Science course at General Assembly London.
 
 ## Data
+
+The data used in this project was made available by NASA (https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan).
+
 <p align="center">
 	<img src="ReadMe_files/channels_description.png" alt="Channels description" height="650" width="425" />
 </p>
