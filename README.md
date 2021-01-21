@@ -9,5 +9,5 @@ This was an individual project was developed during the Data Science course at G
 
 ## Data
 <p align="center">
-	<img src="ReadMe_files/channels_description.png" alt="Channels description" height="1300" width="850" />
+	<img src="ReadMe_files/channels_description.png" alt="Channels description" height="650" width="425" />
 </p>
