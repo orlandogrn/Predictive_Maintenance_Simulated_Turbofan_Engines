@@ -33,6 +33,7 @@ There are a total of four dataset
 	Table:2 Datasets avaiblable at NASA website
 </p>
 <p align="center">
-	teste/
 	<img src="ReadMe_files/datasets_table.png" height="238" width="450"/>
 </p>
+
+![Alt text](ReadMe_files/datasets_table.png "Optional title")
