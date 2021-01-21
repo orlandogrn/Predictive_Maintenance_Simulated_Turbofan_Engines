@@ -20,5 +20,6 @@ It is a multivariate time series with 'cycle' as time unit and includes for each
 
 <p align="center">
 	Table:1 Channels description
+	
 	<img src="ReadMe_files/channels_description.png" height="650" width="425" />
 </p>
