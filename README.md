@@ -18,5 +18,5 @@ It is a multivariate time series with 'cycle' as time unit and includes for each
 - 21 sensor readings
 
 <p align="center">
-	<img src="ReadMe_files/channels_description.png" title="Channels description" height="650" width="425" />
+	<img src="ReadMe_files/channels_description.png" height="650" width="425" />
 </p>
