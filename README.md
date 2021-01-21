@@ -8,4 +8,4 @@ Several machine learning models (Elastic Net, Random Forest, Gradient Boosting, 
 This was an individual project was developed during the Data Science course at General Assembly London.
 
 ## Data
-
+https://github.com/orlandogrn/Predictive_Maintenance_Simulated_Turbofan_Engines/blob/main/ReadMe_files/channels_description.png
