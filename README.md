@@ -33,6 +33,6 @@ There are a total of four simulated datasets available on the NASA data reposito
 	Table:2 Datasets avaiblable at NASA website
 </p>
 <p align="center">
-	<img src="ReadMe_files/datasets_table.png"/>
+	<img src="ReadMe_files/datasets_table.png" height="240" width="500" />
 </p>
 
