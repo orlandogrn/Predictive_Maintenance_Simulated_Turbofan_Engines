@@ -13,6 +13,10 @@ The data used in this project was made available by NASA:
 
 Turbofan Engine Degradation Simulation Data Set (https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan).
 
+It is a multivariate time series with 'cycle' as time unit and includes for each turbofan engine:
+- 3 operating settings (altitude, mach, throttle resolver angle(TRA))
+- 21 sensor readings
+
 <p align="center">
 	<img src="ReadMe_files/channels_description.png" alt="Channels description" height="650" width="425" />
 </p>
